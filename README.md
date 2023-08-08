@@ -1,1 +1,5 @@
-# i_am_jam_plastering
+#  JAM PLASTERING - Landing Page 
+
+## Using Bootsrap 4
+
+## HTML CSS JS PHP
