@@ -1301,7 +1301,7 @@ section {
   text-align: center;
   width: 36px;
   height: 36px;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
 #footer .social-links a:hover {
@@ -1317,5 +1317,6 @@ section {
 }
 
 footer {
-  background: rgb(3, 0, 16);
+  background-image: linear-gradient(65deg, rgb(116, 3, 3), rgb(132, 77, 35), rgb(153, 104, 7));
 }
+
