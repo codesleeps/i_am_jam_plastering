@@ -1,5 +1,5 @@
-# Landing Page - JAM PLASTERING
+#  JAM PLASTERING - Landing Page 
 
-## Bootsrap 4
+## Using Bootsrap 4
 
 ## HTML CSS JS
