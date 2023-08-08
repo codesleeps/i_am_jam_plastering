@@ -71,7 +71,7 @@ h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #fbfbfb;
+  background: #f0c085;
   font-size: 15px;
   height: 40px;
   padding: 0;
@@ -113,7 +113,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background-color: #090808;
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
@@ -186,7 +186,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #010000;
+  color: #e78505;
 }
 
 .navbar .getstarted,
