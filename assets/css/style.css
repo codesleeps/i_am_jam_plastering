@@ -736,11 +736,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #5cb874;
+  border: 1px solid #f0a505;
 }
 
 .clients .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #5cb874;
+  background-color:#f0a505;
 }
 
 /*--------------------------------------------------------------
